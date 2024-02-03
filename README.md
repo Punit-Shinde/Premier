@@ -33,7 +33,7 @@ To run this website locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/premier-model-management.git
+   git clone https://github.com/your-username/premier.git
    ```
 
 2. Open the `index.html` file in your web browser.
